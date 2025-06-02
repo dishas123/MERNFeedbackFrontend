@@ -1,5 +1,14 @@
 # Frontend cloning instructions: <br>
-
+First execute all the commands given for cloning the backend folder of this project given in the readme section of the github repo: https://github.com/dishas123/MERNBackend <br>
+Then follow these steps to clone and run the frontend: <br>
+cd OneDrive <br>
+cd Desktop <br>
+cd feedbackproject <br>
+git clone https://github.com/dishas123/MERNFeedbackFrontend <br>
+cd MERNFeedbackFrontend <br>
+npm install <br>
+npm start <br>
+You will now be able to use the website. <br>
 
 
 
