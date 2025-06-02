@@ -1,6 +1,6 @@
 # Frontend cloning instructions: <br>
 First execute all the commands given for cloning the backend folder of this project given in the readme section of the github repo: https://github.com/dishas123/MERNBackend <br>
-Then open a new command prompt terminal and follow these steps to clone and run the frontend: <br>
+If you have completed running the backend, open a new command prompt terminal and follow these steps to clone and run the frontend: <br>
 cd OneDrive <br>
 cd Desktop <br>
 cd feedbackproject <br>
