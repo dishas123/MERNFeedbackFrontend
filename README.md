@@ -9,6 +9,9 @@ cd MERNFeedbackFrontend <br>
 npm install <br>
 npm start <br>
 You will now be able to use the website. <br>
+Note: <br>
+To sign up, enter your name,email ID and Password<br>
+Enter a valid email address and ensure that your password is atleast 6 characters.
 
 
 
