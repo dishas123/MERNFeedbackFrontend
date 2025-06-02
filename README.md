@@ -4,7 +4,7 @@ If you have completed running the backend, open a new command prompt terminal an
 cd OneDrive <br>
 cd Desktop <br>
 cd feedbackproject <br>
-git clone https://github.com/dishas123/MERNFeedbackFrontend <br>
+git clone https://github.com/dishas123/MERNFeedbackFrontend.git <br>
 cd MERNFeedbackFrontend <br>
 npm install <br>
 npm start <br>
